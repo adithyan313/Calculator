@@ -1,0 +1,1 @@
+Designed and developed a user-friendly, responsive calculator using JavaScript, HTML, and CSS, featuring basic arithmetic operations with accurate calculation capabilities, a clear function to reset inputs, and a display for showing calculated values, all encapsulated in an intuitive calculator-shaped interface.
